@@ -97,7 +97,7 @@ When choosing to compare files, you'll also be asked to choose how you want to c
 
 ## Example Output
 
-```
+```python
 Choose an option:
 1) Compare using default keywords
 2) Compare using custom keywords
