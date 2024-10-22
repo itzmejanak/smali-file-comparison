@@ -102,7 +102,7 @@ When you choose to compare files, you'll be asked to select how you want to comp
 
 ### Example Output
 
-```plaintext
+```python
 Choose an option:
 1) Compare using default keywords
 2) Compare using custom keywords
