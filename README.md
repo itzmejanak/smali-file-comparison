@@ -13,7 +13,7 @@ This Python script is designed to **compare two sets of Smali files** extracted 
 - **Default and Custom Keywords**: Search using default keywords (like `isPro`, `isPremium`, etc.) or specify custom ones.
 - **Color-Coded Output**: Differences are highlighted in color for easy identification:
 
-    ```plaintext
+    ```python
     273: -     move-result v0
     274: +     const/4 v0, 0x1
     ```
